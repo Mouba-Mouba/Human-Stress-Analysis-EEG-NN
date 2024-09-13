@@ -1,2 +1,2 @@
-## Project Summary
+## HUMAN STRESS ANALYSIS BETWEEN NORMAL AND BIPOLAR DISORDER PATIENTS BY USING NEURAL NETWORKS BASED ON EEG SIGNALS
 This study investigates stress levels in individuals with bipolar disorder compared to normal individuals using EEG signals and neural networks. By analyzing processed EEG data, the study reveals that individuals with bipolar disorder exhibit significantly higher stress levels than their non-bipolar counterparts. These findings offer insights into the physiological differences under stress and underscore the need for early detection and effective management strategies for bipolar disorder. The research could contribute to the development of new diagnostic and therapeutic techniques.
